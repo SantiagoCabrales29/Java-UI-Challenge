@@ -1,0 +1,7 @@
+search/SearchTest.class
+price/PriceTest.class
+categories/CategoriesTest.class
+signin/SigninTest.class
+register/RegisterTest.class
+base/BaseTest.class
+helpers/DataGenerator.class
